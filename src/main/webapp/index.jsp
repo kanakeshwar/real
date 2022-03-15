@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>mahesh Gurus gfgfgfggfgfg hjTechnologies - Exclusive DevOps & Cloud Learning Hub</title>
+<title>kanakeshwar Gurus gfgfgfggfgfg hjTechnologies - Exclusive DevOps & Cloud Learning Hub</title>
 <link rel="stylesheet"
 	href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
 <link rel="stylesheet" href="/resources/demos/style.css">
@@ -101,7 +101,7 @@
 	</div >
 
 	<div class="container">
-		<footer>@ 2021 soumya Technologies. All rights Reserved.</footer>
+		<footer>@ 2021 kanakeshwar Technologies. All rights Reserved.</footer>
 	</div>
 
 </body>
