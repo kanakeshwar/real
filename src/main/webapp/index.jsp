@@ -101,7 +101,7 @@
 	</div >
 
 	<div class="container">
-		<footer>@ 2021 radhe syam trailer is good Technologies. All rights Reserved.</footer>
+		<footer>@ 2021 kanakeshwar Technologies. All rights Reserved.</footer>
 	</div>
 
 </body>
