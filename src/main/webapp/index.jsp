@@ -101,7 +101,7 @@
 	</div >
 
 	<div class="container">
-		<footer>@ 2021 kanakeshwar Technologies. All rights Reserved.</footer>
+		<footer>@ 2021 AVN Technologies. All rights Reserved.</footer>
 	</div>
 
 </body>
