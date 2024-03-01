@@ -27,7 +27,7 @@
 	<div class="container">
 
 		<header>
-			<h1> RAMESH MADUGULA TECH 2023 & Cloud Learning Platform</h1> 
+			<h1> KANAKESHWAR REDDY MAGANTI TECH 2024 & Cloud Learning Platform</h1> 
 			<h4>Contact: 7032501797 Email: mahesh44806@gmail.com</h4> 
 		</header>
 
@@ -101,7 +101,7 @@
 	</div >
 
 	<div class="container">
-		<footer>@ PALLAVI RAMESH AJAY BHARGAV 2023 AVN Technologies. All rights Reserved.</footer>
+		<footer>@ kanakeshwar.901@gmail.com 2024 AVN Technologies. All rights Reserved.</footer>
 	</div>
 
 </body>
