@@ -27,7 +27,7 @@
 	<div class="container">
 
 		<header>
-			<h1> M Hansika TECH 2024 & Cloud Learning Platform</h1> 
+			<h1> MD AKRAM TECH 2024 & Cloud Learning Platform</h1> 
 			<h4>Contact: 7032501797 Email: mahesh44806@gmail.com</h4> 
 		</header>
 
