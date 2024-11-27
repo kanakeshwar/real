@@ -27,7 +27,7 @@
 	<div class="container">
 
 		<header>
-			<h1> manikanta pavan kushanth sriram sirisha & Cloud Learning Platform</h1> 
+			<h1> Shiva Anusha Nikitha Divya Keerthi & Cloud Learning Platform</h1> 
 			<h4>Contact: 7032501797 Email: mahesh44806@gmail.com</h4> 
 		</header>
 
