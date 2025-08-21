@@ -26,8 +26,8 @@
 
 	<build>
 		<finalName>devopsguru</finalName>
-		<!-- 🛠 Add this plugin configuration -->
-        <plugins>
+		<plugins>
+            <!-- Compiler plugin -->
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>
@@ -37,9 +37,17 @@
                     <target>1.8</target>
                 </configuration>
             </plugin>
+
+            <!-- War plugin -->
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-war-plugin</artifactId>
+                <version>3.3.2</version>
+            </plugin>
         </plugins>
 	</build>
 	
 </project>
+
 
 
