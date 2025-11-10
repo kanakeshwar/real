@@ -28,7 +28,7 @@
 
 		<header>
 			<h1> Ravichandra  & Cloud Learning Platform</h1> 
-			<h4>Contact: 9876543210 Email: durga@gmail.com</h4> 
+			<h4>Contact:8431167282 Email: c4182052@gmail.com</h4> 
 		</header>
 
 		<div id="tabs">
@@ -106,6 +106,7 @@
 
 </body>
 </html>
+
 
 
 
