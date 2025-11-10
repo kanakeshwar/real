@@ -27,7 +27,7 @@
 	<div class="container">
 
 		<header>
-			<h1> DURGA  & Cloud Learning Platform</h1> 
+			<h1> Ravichandra  & Cloud Learning Platform</h1> 
 			<h4>Contact: 9876543210 Email: durga@gmail.com</h4> 
 		</header>
 
@@ -106,5 +106,6 @@
 
 </body>
 </html>
+
 
 
