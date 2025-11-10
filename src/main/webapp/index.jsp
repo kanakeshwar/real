@@ -27,7 +27,7 @@
 	<div class="container">
 
 		<header>
-			<h1>G.Nandinii& Cloud Learning Platform</h1> 
+			<h1>B.Ravindar A.Karthik Rishi& Cloud Learning Platform</h1> 
 			<h4>Contact:9347703792 Email:nandini@gmail.com</h4> 
 		</header>
 
@@ -106,6 +106,7 @@
 
 </body>
 </html>
+
 
 
 
