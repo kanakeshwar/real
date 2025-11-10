@@ -27,8 +27,8 @@
 	<div class="container">
 
 		<header>
-			<h1> CSE-A 2024 & Cloud Learning Platform</h1> 
-			<h4>Contact: 7032501797 Email: mahesh44806@gmail.com</h4> 
+			<h1> DURGA  & Cloud Learning Platform</h1> 
+			<h4>Contact: 9876543210 Email: durga@gmail.com</h4> 
 		</header>
 
 		<div id="tabs">
@@ -106,4 +106,5 @@
 
 </body>
 </html>
+
 
